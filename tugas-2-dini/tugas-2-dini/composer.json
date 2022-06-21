@@ -1,0 +1,16 @@
+{
+    "name": "user/tugas-2",
+    "description": "TUGAS 2 - Web Dasar",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dini Syahfriani-0702191104"
+        }
+    ],
+    "require": {}
+}
